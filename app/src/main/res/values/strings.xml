@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YourFilms</string>
+    <string name="app_copyright">YourFilms - Copyright &#169; Diogo Correia 2019</string>
+    <string name="list_name">Series</string>
+    <string name="favorites">Favorites</string>
+    <string name="logodescription">YourFilms logo</string>
+    <string name="heartdescription">Heart logo</string>
+    <string name="favoritesTitle">My Favorite Series</string>
+</resources>
